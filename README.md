@@ -21,7 +21,7 @@
 
 | Основной интерфейс |
 |--------------------|
-| ![Main UI](https://github.com/Jerka2009/ProjectLasariaSA/raw/refs/heads/main/image.png)
+| ![Main UI](https://github.com/Jerka2009/ProjectLasariaSA/raw/refs/heads/main/photo_2025-08-15_14-03-04.jpg)
 
 ## 🚀 Установка
 
