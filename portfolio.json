@@ -2,7 +2,7 @@
   "title": "Ro-Player",
   "description": "Это мощное расширение для браузера, позволяющее проигрывать аудио-треки из Roblox напрямую по их ID. Создано для истинных ценителей музыки в Roblox с расширенными возможностями управления воспроизведением. [В свзяи с обновлением api roblox теперь не работает]",
   "images": [
-    "assets/portfolio/screenshot-1.png"
+    "assets/portfolio/screenshot-1.jpg"
   ],
   "demo": "None",
   "github": "https://github.com/Jerka2009/Ro-Player"
